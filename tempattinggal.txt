@@ -1,0 +1,6 @@
+Jalan : Manggarmanis Gg. 2
+RT : 5
+RW : 2
+Kelurahan : Manisrejo
+Kecamatan : Taman 
+Kota : Madiun
